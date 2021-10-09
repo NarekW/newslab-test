@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.catsPageRoot{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.categories-container{
+
+}
